@@ -1,0 +1,1 @@
+"Chat channel set to §bStaffChat§7!"
